@@ -69,7 +69,10 @@ body {
   position: relative;
   left: -70px;
 }
-
+.mid {
+  position: relative;
+  left: 0px;
+}
 .bottom {
   position: relative;
   left: 70px;
